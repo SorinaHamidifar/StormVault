@@ -2,7 +2,7 @@
 # Project: CodeVault
 # Description:
 # A secure vault of powerful code, experiments, and evolving projects
-# built to wit real-world challenges.
+# built to withst real-world challenges.
 # ==========================================
 
 
