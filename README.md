@@ -13,7 +13,7 @@ Main entry point for CodeVault.
 
 from core.security import VaultSecurity
 from core.engine import ChallengeEngine
-from core.evolution import EvolutionMana
+from core.evolution import Evolution
 
 
 def run():
