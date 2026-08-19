@@ -11,7 +11,7 @@
 Main entry point for CodeVault.
 """
 
-from core.security import VaultSec
+from core.security import VaultSecur
 from core.engine import ChallengeEngine
 from core.evolution import EvolutionManager
 
