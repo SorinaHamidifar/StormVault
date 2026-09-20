@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for CodeVault
+Main entry point for CodeVault.
 """
 
 from core.security import VaultSecurity
