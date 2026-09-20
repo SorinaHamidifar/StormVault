@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for 
+Main entry 
 """
 
 from core.security import VaultSecurity
